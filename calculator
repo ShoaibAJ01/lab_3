@@ -1,3 +1,13 @@
 console.log("my name is muhammad shoaib");
 console.log(" my roll number is 10);
+let a = 5;
+let b = 6;
+let sum = a+b;
+console.log(sum);
+let sub = b-a;
+console.log(sub);
+let mul = a * b;
+console.log(mul);
+let Divide = b / a;
+console.log(Divide);
   
