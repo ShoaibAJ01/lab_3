@@ -8,5 +8,6 @@ let sub = b-a;
 console.log(sub);
 let mul = a * b;
 console.log(mul);
-
+let div = b / a;
+console.log(div);
   
